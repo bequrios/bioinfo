@@ -1,1 +1,14 @@
+<https://example.org/city/Zurich> <https://example.org/partOf> <https://example.org/canton/Zurich>.
+<https://example.org/city/Zurich> <https://example.org/isA> <https://example.org/municipality>.
+<https://example.org/city/Zurich> <https://example.org/area> "87.93".
+<https://example.org/city/Zurich> <https://example.org/headOfGovernment> <https://example.org/people/Corine_Mauch>.
+<https://example.org/city/Zurich> <https://example.org/population> [
+    <https://example.org/number> "421878";
+    <https://example.org/date> "2020-12-31";
+].
 
+<https://example.org/canton/Zurich> <https://example.org/partOf> <https://example.org/Switzerland>.
+
+<https://example.org/people/Corine_Mauch> <https://example.org/party> <https://example.org/SP>.
+
+<https://example.org/SP> <https://example.org/noOfFC> "2".
